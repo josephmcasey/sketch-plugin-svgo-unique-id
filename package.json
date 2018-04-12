@@ -3,7 +3,7 @@
   "description": "Uses SVGO to compress exported SVG assets",
   "license": "MIT",
   "author": "Joseph Casey <joseph@locuslabs.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com:josephmcasey/sketch-plugin-svgo-unique-id.git",
   "engines": {
     "sketch": ">=3.0"
