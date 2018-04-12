@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Joseph Casey <joseph@locuslabs.com>",
   "version": "0.1.0",
-  "repository": "git.locuslabs.com",
+  "repository": "https://github.com:josephmcasey/sketch-plugin-svgo-unique-id.git",
   "engines": {
     "sketch": ">=3.0"
   },
